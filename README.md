@@ -1,4 +1,4 @@
-# Hi there, I'm Ansa-sherazi 👋
+# Hi there, I'm Syeda Ansa Sherazi 👋
 
 ## 👩‍🎓 About Me
 I'm a passionate static web developer and UI/UX designer dedicated to creating seamless and engaging user experiences. Currently pursuing a 3-year diploma, I’m on a journey to enhance my skills in web development and office automation. I believe that great design and functionality go hand in hand, and I love bringing innovative ideas to life.
