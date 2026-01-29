@@ -13,33 +13,30 @@
 - 🧠 Passionate about clean code & problem solving  
 - 🌱 Always learning new technologies
 
-### Frontend
-![HTML](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white)
-
 ## 🛠️ Tech Stack
 
 ### Frontend
-![HTML](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/React-blue?style=flat&logo=react)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" />
+</p>
 
 ### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-red?style=flat&logo=laravel&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet&theme=dark" />
+</p>
+
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</p>
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-red?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+</p>
+
+
 
 
 ## 🚀 Featured Projects
